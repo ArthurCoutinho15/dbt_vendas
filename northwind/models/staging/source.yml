@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: northwind
+    database: northwind  
+    schema: northwind  
+    tables:
+      - name: avaliacoes
+      - name: carrinho
+      - name: categorias
+      - name: clientes 
+      - name: itens_pedidos
+      - name: pagamentos
+      - name: pedidos
+      - name: produtos
